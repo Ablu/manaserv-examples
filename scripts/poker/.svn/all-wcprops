@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4421/trunk/server-data/scripts/libs/poker
+END
+pokercardstack.lua
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3874/trunk/server-data/scripts/libs/poker/pokercardstack.lua
+END
+pokerpot.lua
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4418/trunk/server-data/scripts/libs/poker/pokerpot.lua
+END
+pokercardvalue.lua
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3829/trunk/server-data/scripts/libs/poker/pokercardvalue.lua
+END
+pokercardcolor.lua
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3829/trunk/server-data/scripts/libs/poker/pokercardcolor.lua
+END
+pokergame.lua
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4421/trunk/server-data/scripts/libs/poker/pokergame.lua
+END
+pokercard.lua
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3842/trunk/server-data/scripts/libs/poker/pokercard.lua
+END
+pokerspaderater.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3849/trunk/server-data/scripts/libs/poker/pokerspaderater.lua
+END
+pokerconstants.lua
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3690/trunk/server-data/scripts/libs/poker/pokerconstants.lua
+END
+pokerplayer.lua
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3930/trunk/server-data/scripts/libs/poker/pokerplayer.lua
+END
+pokerspade.lua
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3844/trunk/server-data/scripts/libs/poker/pokerspade.lua
+END
